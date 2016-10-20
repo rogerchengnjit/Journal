@@ -1,0 +1,121 @@
+c:\users\roger\documents\visual studio 2013\Projects\PsoftJournalVoucher\PsoftJournalVoucher\bin\PsoftJournalVoucher.dll.config
+c:\users\roger\documents\visual studio 2013\Projects\PsoftJournalVoucher\PsoftJournalVoucher\bin\PsoftJournalVoucher.dll
+c:\users\roger\documents\visual studio 2013\Projects\PsoftJournalVoucher\PsoftJournalVoucher\bin\PsoftJournalVoucher.pdb
+c:\users\roger\documents\visual studio 2013\Projects\PsoftJournalVoucher\PsoftJournalVoucher\obj\Debug\PsoftJournalVoucher.csprojResolveAssemblyReference.cache
+c:\users\roger\documents\visual studio 2013\Projects\PsoftJournalVoucher\PsoftJournalVoucher\obj\Debug\PsoftJournalVoucher.dll
+c:\users\roger\documents\visual studio 2013\Projects\PsoftJournalVoucher\PsoftJournalVoucher\obj\Debug\PsoftJournalVoucher.pdb
+c:\users\roger\documents\visual studio 2013\Projects\PsoftJournalVoucher\PsoftJournalVoucher\bin\EntityFramework.dll
+c:\users\roger\documents\visual studio 2013\Projects\PsoftJournalVoucher\PsoftJournalVoucher\bin\EntityFramework.SqlServer.dll
+c:\users\roger\documents\visual studio 2013\Projects\PsoftJournalVoucher\PsoftJournalVoucher\bin\Newtonsoft.Json.dll
+c:\users\roger\documents\visual studio 2013\Projects\PsoftJournalVoucher\PsoftJournalVoucher\bin\System.Net.Http.Formatting.dll
+c:\users\roger\documents\visual studio 2013\Projects\PsoftJournalVoucher\PsoftJournalVoucher\bin\System.Web.Http.dll
+c:\users\roger\documents\visual studio 2013\Projects\PsoftJournalVoucher\PsoftJournalVoucher\bin\System.Web.Http.WebHost.dll
+c:\users\roger\documents\visual studio 2013\Projects\PsoftJournalVoucher\PsoftJournalVoucher\bin\EntityFramework.xml
+c:\users\roger\documents\visual studio 2013\Projects\PsoftJournalVoucher\PsoftJournalVoucher\bin\EntityFramework.SqlServer.xml
+c:\users\roger\documents\visual studio 2013\Projects\PsoftJournalVoucher\PsoftJournalVoucher\bin\Newtonsoft.Json.xml
+c:\users\roger\documents\visual studio 2013\Projects\PsoftJournalVoucher\PsoftJournalVoucher\bin\System.Net.Http.Formatting.xml
+c:\users\roger\documents\visual studio 2013\Projects\PsoftJournalVoucher\PsoftJournalVoucher\bin\System.Web.Http.xml
+c:\users\roger\documents\visual studio 2013\Projects\PsoftJournalVoucher\PsoftJournalVoucher\bin\System.Web.Http.WebHost.xml
+C:\Temp\Journal-master\PsoftJournalVoucher\bin\PsoftJournalVoucher.dll
+C:\Temp\Journal-master\PsoftJournalVoucher\bin\PsoftJournalVoucher.pdb
+C:\Temp\Journal-master\PsoftJournalVoucher\bin\EntityFramework.dll
+C:\Temp\Journal-master\PsoftJournalVoucher\bin\EntityFramework.SqlServer.dll
+C:\Temp\Journal-master\PsoftJournalVoucher\bin\Newtonsoft.Json.dll
+C:\Temp\Journal-master\PsoftJournalVoucher\bin\System.Net.Http.Formatting.dll
+C:\Temp\Journal-master\PsoftJournalVoucher\bin\System.Web.Http.dll
+C:\Temp\Journal-master\PsoftJournalVoucher\bin\System.Web.Http.WebHost.dll
+C:\Temp\Journal-master\PsoftJournalVoucher\bin\EntityFramework.xml
+C:\Temp\Journal-master\PsoftJournalVoucher\bin\EntityFramework.SqlServer.xml
+C:\Temp\Journal-master\PsoftJournalVoucher\bin\Newtonsoft.Json.xml
+C:\Temp\Journal-master\PsoftJournalVoucher\bin\System.Net.Http.Formatting.xml
+C:\Temp\Journal-master\PsoftJournalVoucher\bin\System.Web.Http.xml
+C:\Temp\Journal-master\PsoftJournalVoucher\bin\System.Web.Http.WebHost.xml
+C:\Temp\Journal-master\PsoftJournalVoucher\obj\Debug\PsoftJournalVoucher.dll
+C:\Temp\Journal-master\PsoftJournalVoucher\obj\Debug\PsoftJournalVoucher.pdb
+H:\Journal-master(Dev asmx with para)\PsoftJournalVoucher\bin\PsoftJournalVoucher.dll
+H:\Journal-master(Dev asmx with para)\PsoftJournalVoucher\bin\PsoftJournalVoucher.pdb
+H:\Journal-master(Dev asmx with para)\PsoftJournalVoucher\bin\EntityFramework.dll
+H:\Journal-master(Dev asmx with para)\PsoftJournalVoucher\bin\EntityFramework.SqlServer.dll
+H:\Journal-master(Dev asmx with para)\PsoftJournalVoucher\bin\Newtonsoft.Json.dll
+H:\Journal-master(Dev asmx with para)\PsoftJournalVoucher\bin\System.Net.Http.Formatting.dll
+H:\Journal-master(Dev asmx with para)\PsoftJournalVoucher\bin\System.Web.Http.dll
+H:\Journal-master(Dev asmx with para)\PsoftJournalVoucher\bin\System.Web.Http.WebHost.dll
+H:\Journal-master(Dev asmx with para)\PsoftJournalVoucher\bin\EntityFramework.xml
+H:\Journal-master(Dev asmx with para)\PsoftJournalVoucher\bin\EntityFramework.SqlServer.xml
+H:\Journal-master(Dev asmx with para)\PsoftJournalVoucher\bin\Newtonsoft.Json.xml
+H:\Journal-master(Dev asmx with para)\PsoftJournalVoucher\bin\System.Net.Http.Formatting.xml
+H:\Journal-master(Dev asmx with para)\PsoftJournalVoucher\bin\System.Web.Http.xml
+H:\Journal-master(Dev asmx with para)\PsoftJournalVoucher\bin\System.Web.Http.WebHost.xml
+H:\Journal-master(Dev asmx with para)\PsoftJournalVoucher\obj\Debug\PsoftJournalVoucher.csprojResolveAssemblyReference.cache
+H:\Journal-master(Dev asmx with para)\PsoftJournalVoucher\obj\Debug\PsoftJournalVoucher.dll
+H:\Journal-master(Dev asmx with para)\PsoftJournalVoucher\obj\Debug\PsoftJournalVoucher.pdb
+C:\Temp\Journal-master\PsoftJournalVoucher\obj\Debug\PsoftJournalVoucher.csprojResolveAssemblyReference.cache
+C:\Users\chengc04\Documents\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\PsoftJournalVoucher.dll
+C:\Users\chengc04\Documents\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\PsoftJournalVoucher.pdb
+C:\Users\chengc04\Documents\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\EntityFramework.dll
+C:\Users\chengc04\Documents\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\EntityFramework.SqlServer.dll
+C:\Users\chengc04\Documents\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\Newtonsoft.Json.dll
+C:\Users\chengc04\Documents\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\System.Net.Http.Formatting.dll
+C:\Users\chengc04\Documents\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\System.Web.Http.dll
+C:\Users\chengc04\Documents\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\System.Web.Http.WebHost.dll
+C:\Users\chengc04\Documents\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\EntityFramework.xml
+C:\Users\chengc04\Documents\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\EntityFramework.SqlServer.xml
+C:\Users\chengc04\Documents\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\Newtonsoft.Json.xml
+C:\Users\chengc04\Documents\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\System.Net.Http.Formatting.xml
+C:\Users\chengc04\Documents\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\System.Web.Http.xml
+C:\Users\chengc04\Documents\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\System.Web.Http.WebHost.xml
+C:\Users\chengc04\Documents\Journal-master(final 01.13.16)\PsoftJournalVoucher\obj\Debug\PsoftJournalVoucher.csprojResolveAssemblyReference.cache
+C:\Users\chengc04\Documents\Journal-master(final 01.13.16)\PsoftJournalVoucher\obj\Debug\PsoftJournalVoucher.dll
+C:\Users\chengc04\Documents\Journal-master(final 01.13.16)\PsoftJournalVoucher\obj\Debug\PsoftJournalVoucher.pdb
+C:\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\PsoftJournalVoucher.dll.config
+C:\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\PsoftJournalVoucher.dll
+C:\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\PsoftJournalVoucher.pdb
+C:\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\EntityFramework.dll
+C:\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\EntityFramework.SqlServer.dll
+C:\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\Newtonsoft.Json.dll
+C:\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\System.Net.Http.Formatting.dll
+C:\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\System.Web.Http.dll
+C:\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\System.Web.Http.WebHost.dll
+C:\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\EntityFramework.xml
+C:\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\EntityFramework.SqlServer.xml
+C:\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\Newtonsoft.Json.xml
+C:\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\System.Net.Http.Formatting.xml
+C:\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\System.Web.Http.xml
+C:\Journal-master(final 01.13.16)\PsoftJournalVoucher\bin\System.Web.Http.WebHost.xml
+C:\Journal-master(final 01.13.16)\PsoftJournalVoucher\obj\Debug\PsoftJournalVoucher.csprojResolveAssemblyReference.cache
+C:\Journal-master(final 01.13.16)\PsoftJournalVoucher\obj\Debug\PsoftJournalVoucher.dll
+C:\Journal-master(final 01.13.16)\PsoftJournalVoucher\obj\Debug\PsoftJournalVoucher.pdb
+C:\cygwin64\home\chengc04\Journal(FinalNotForGit)\PsoftJournalVoucher\bin\PsoftJournalVoucher.dll
+C:\cygwin64\home\chengc04\Journal(FinalNotForGit)\PsoftJournalVoucher\bin\PsoftJournalVoucher.pdb
+C:\cygwin64\home\chengc04\Journal(FinalNotForGit)\PsoftJournalVoucher\bin\EntityFramework.dll
+C:\cygwin64\home\chengc04\Journal(FinalNotForGit)\PsoftJournalVoucher\bin\EntityFramework.SqlServer.dll
+C:\cygwin64\home\chengc04\Journal(FinalNotForGit)\PsoftJournalVoucher\bin\Newtonsoft.Json.dll
+C:\cygwin64\home\chengc04\Journal(FinalNotForGit)\PsoftJournalVoucher\bin\System.Net.Http.Formatting.dll
+C:\cygwin64\home\chengc04\Journal(FinalNotForGit)\PsoftJournalVoucher\bin\System.Web.Http.dll
+C:\cygwin64\home\chengc04\Journal(FinalNotForGit)\PsoftJournalVoucher\bin\System.Web.Http.WebHost.dll
+C:\cygwin64\home\chengc04\Journal(FinalNotForGit)\PsoftJournalVoucher\bin\EntityFramework.xml
+C:\cygwin64\home\chengc04\Journal(FinalNotForGit)\PsoftJournalVoucher\bin\EntityFramework.SqlServer.xml
+C:\cygwin64\home\chengc04\Journal(FinalNotForGit)\PsoftJournalVoucher\bin\Newtonsoft.Json.xml
+C:\cygwin64\home\chengc04\Journal(FinalNotForGit)\PsoftJournalVoucher\bin\System.Net.Http.Formatting.xml
+C:\cygwin64\home\chengc04\Journal(FinalNotForGit)\PsoftJournalVoucher\bin\System.Web.Http.xml
+C:\cygwin64\home\chengc04\Journal(FinalNotForGit)\PsoftJournalVoucher\bin\System.Web.Http.WebHost.xml
+C:\cygwin64\home\chengc04\Journal(FinalNotForGit)\PsoftJournalVoucher\obj\Debug\PsoftJournalVoucher.csprojResolveAssemblyReference.cache
+C:\cygwin64\home\chengc04\Journal(FinalNotForGit)\PsoftJournalVoucher\obj\Debug\PsoftJournalVoucher.dll
+C:\cygwin64\home\chengc04\Journal(FinalNotForGit)\PsoftJournalVoucher\obj\Debug\PsoftJournalVoucher.pdb
+C:\cygwin64\home\chengc04\Journal\PsoftJournalVoucher\bin\PsoftJournalVoucher.dll
+C:\cygwin64\home\chengc04\Journal\PsoftJournalVoucher\bin\PsoftJournalVoucher.pdb
+C:\cygwin64\home\chengc04\Journal\PsoftJournalVoucher\bin\EntityFramework.dll
+C:\cygwin64\home\chengc04\Journal\PsoftJournalVoucher\bin\EntityFramework.SqlServer.dll
+C:\cygwin64\home\chengc04\Journal\PsoftJournalVoucher\bin\Newtonsoft.Json.dll
+C:\cygwin64\home\chengc04\Journal\PsoftJournalVoucher\bin\System.Net.Http.Formatting.dll
+C:\cygwin64\home\chengc04\Journal\PsoftJournalVoucher\bin\System.Web.Http.dll
+C:\cygwin64\home\chengc04\Journal\PsoftJournalVoucher\bin\System.Web.Http.WebHost.dll
+C:\cygwin64\home\chengc04\Journal\PsoftJournalVoucher\bin\EntityFramework.xml
+C:\cygwin64\home\chengc04\Journal\PsoftJournalVoucher\bin\EntityFramework.SqlServer.xml
+C:\cygwin64\home\chengc04\Journal\PsoftJournalVoucher\bin\Newtonsoft.Json.xml
+C:\cygwin64\home\chengc04\Journal\PsoftJournalVoucher\bin\System.Net.Http.Formatting.xml
+C:\cygwin64\home\chengc04\Journal\PsoftJournalVoucher\bin\System.Web.Http.xml
+C:\cygwin64\home\chengc04\Journal\PsoftJournalVoucher\bin\System.Web.Http.WebHost.xml
+C:\cygwin64\home\chengc04\Journal\PsoftJournalVoucher\obj\Debug\PsoftJournalVoucher.csprojResolveAssemblyReference.cache
+C:\cygwin64\home\chengc04\Journal\PsoftJournalVoucher\obj\Debug\PsoftJournalVoucher.dll
+C:\cygwin64\home\chengc04\Journal\PsoftJournalVoucher\obj\Debug\PsoftJournalVoucher.pdb
